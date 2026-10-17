@@ -71,7 +71,7 @@ No JavaScript. No frameworks. No build step. Just clean, hand-written HTML & CSS
 
 ## 🔗 Demo
 
-👉 [**Live Demo**]((https://mohammadtakali.github.io/ember-shopify-landing-page/)
+👉 [**Live Demo**](https://mohammadtakali.github.io/ember-shopify-landing-page/)
 ---
 
 ## ✨ Features
