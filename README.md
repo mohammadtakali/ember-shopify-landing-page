@@ -71,8 +71,7 @@ No JavaScript. No frameworks. No build step. Just clean, hand-written HTML & CSS
 
 ## 🔗 Demo
 
-👉 [**Live Demo**](#) <!-- replace # with your GitHub Pages / Netlify / Vercel link once deployed -->
-
+👉 [**Live Demo**]((https://mohammadtakali.github.io/ember-shopify-landing-page/)
 ---
 
 ## ✨ Features
